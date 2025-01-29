@@ -1,6 +1,6 @@
 # Michael Addo-Ashong - Data Analysis Portfolio
 
-Welcome to my portfolio! I specialize in data analysis, visualization, and environmental consulting.
+Environmental Science Data Analysis Projects
 
 ## Projects
 - **Forest Fire Analysis**: [Notebook Link](https://github.com/mfaddoashong/michael-addo/blob/main/EDA_notebook.ipynb)
