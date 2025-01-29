@@ -3,7 +3,7 @@
 Welcome to my portfolio! I specialize in data analysis, visualization, and environmental consulting.
 
 ## Projects
-- **Forest Fire Analysis**: [Notebook Link]([your-notebook-link](https://github.com/mfaddoashong/michael-addo/blob/main/EDA_notebook.ipynb))
+- **Forest Fire Analysis**: [Notebook Link](your-notebook-link](https://github.com/mfaddoashong/michael-addo/blob/main/EDA_notebook.ipynb)
 - **Other Project**: Description and link
 
 ## Skills
